@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1794874529 source:/home/sean/Documents/TextAdventure/main.cpp
+	<iostream>
+	<string>
+
